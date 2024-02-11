@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Daswani</h1>
 <h3 align="center">A passionate Web and Game developer from India</h3>
 <img align="right" src = "https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif"/>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdaswani&label=Profile%20views&color=0e75b6&style=flat" alt="yashdaswani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdaswani" alt="yashdaswani" /></a> </p>
